@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **I work on various web projects for a companys projects for a company**
 
-- 🌱 I’m currently learning **Currently learning advanced react and flutter**
+- 🌱 I’m currently learning **Currently learning advanced react**
 
-- 👨‍💻 All of my projects are available at [lkgomez.com](lkgomez.com)
+- 👨‍💻 All of my projects are available at [lkgomez.com](lcgomez.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
