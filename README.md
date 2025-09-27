@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luis Gomez</h1>
 <h3 align="center">I am a technology enthusiast, who likes to learn and practice new technological trends.</h3>
 
-- 🔭 I’m currently working on **I work on various web projects for a companys projects for a company**
+- 🔭 Currently **I only dedicate myself to researching and testing new AI that comes to market**.
 
 - 🌱 I’m currently learning **Currently learning advanced react**
 
-- 👨‍💻 All of my projects are available at [lkgomez.com](lcgomez.com)
+- 👨‍💻 All of my projects are available at [lkgomez.com](lcgomez.com).   ***web in maintenance***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
